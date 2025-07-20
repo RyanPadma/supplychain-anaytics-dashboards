@@ -46,6 +46,33 @@ This project showcases the power of **Power BI** in transforming raw data into a
 
 ---
 
+## 🌟 Business Impact
+
+### 🏭 **Supply Chain Dashboard Impact**
+- **Improved Working Capital** – Optimized inventory levels reduce excess stock and free up cash flow.  
+- **Faster Decision-Making** – Real-time revenue vs. inventory insights enable proactive production and distribution planning.  
+- **Enhanced Product Strategy** – Identifies top-performing SKUs, supporting better assortment planning and demand forecasting.  
+- **Operational Efficiency** – Cuts manual reporting time, allowing teams to focus on problem-solving and strategic planning.  
+
+### 🧾 **Procurement Dashboard Impact**
+- **Cost Reduction Opportunities** – Highlights high-spend categories and underperforming suppliers for renegotiation or consolidation.  
+- **Risk Mitigation** – Global vs. domestic sourcing trends help assess supply chain risks and diversify appropriately.  
+- **Supplier Relationship Management** – Tracks buyer performance and supplier lead times to strengthen collaboration.  
+- **Data-Driven Sourcing Decisions** – AI-powered trend detection identifies savings opportunities and sourcing alternatives.  
+
+---
+
+## 📊 Impact at a Glance
+
+| **Dashboard** | **Key Business Benefit** | **Tangible Impact** |
+|---------------|--------------------------|----------------------|
+| **Supply Chain** | Optimized inventory & SKU insights | **5–10% lower inventory carrying cost** (potential) |
+| **Supply Chain** | Faster decision-making with real-time KPIs | **Improved OTIF (On-Time-In-Full) rates** |
+| **Procurement** | Cost reduction & spend visibility | **3–7% savings in addressable spend** (renegotiation & sourcing) |
+| **Procurement** | Risk mitigation & supplier insights | **Fewer supply disruptions, better lead time accuracy** |
+
+---
+
 ## 📁 Files Included
 - `SupplyChainDashboard.pbix` – Supply Chain Analysis  
 - `ProcurementDashboard.pbix` – Procurement & Buyer Insights  
@@ -53,7 +80,6 @@ This project showcases the power of **Power BI** in transforming raw data into a
 ---
 
 ## 🚀 Getting Started
-
 
 1. Download and open the `.pbix` files using [Power BI Desktop](https://powerbi.microsoft.com/desktop).  
 2. Explore the pages using the slicers and AI Q&A features.  
@@ -66,7 +92,3 @@ This project showcases the power of **Power BI** in transforming raw data into a
 - Procurement cost tracking  
 - Buyer performance reviews  
 - Strategic sourcing decisions  
-
----
-
-
